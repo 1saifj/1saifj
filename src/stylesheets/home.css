@@ -1,0 +1,42 @@
+.intro {
+  height: 100vh;
+  width: 100%;
+}
+
+.intro div h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.intro div p {
+  color: white;
+}
+
+.intro div h1:hover {
+  color: #ffc10796;
+  cursor: default;
+  /* text-shadow: 3px 1px 3px white; */
+}
+.primary-button {
+  background-color: white;
+  height: 30px;
+  border-radius: 100px;
+  border: none;
+  width: 60%;
+}
+
+@media (max-width: 750px) {
+  .intro div h1 {
+    font-size: 50px;
+  }
+
+  .primary-button {
+    background-color: white;
+    height: 30px;
+    border-radius: 100px;
+    border: none;
+    width: auto;
+    padding: 10px 10px;
+  }
+}
