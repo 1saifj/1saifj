@@ -1,8 +1,21 @@
 <h1 align="center">Hi 👋, I'm Saif Aljanahi</h1>
 <h3 align="center">Software developer from Iraq</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1saifj&label=Profile%20views&color=0e75b6&style=flat" alt="1saifj" /> </p>
 
 
+
+<a href=#><img src="contributions.svg"></a>
+
+
+<div float="right"> 
+ 
+
+![1saifj's github stats](https://github-readme-stats.vercel.app/api?username=1saifj&show_icons=true&theme=gruvbox) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1saifj&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+ </div>
+ 
+ ![](https://komarev.com/ghpvc/?username=1saifj&color=lightgrey)
+ 
 
 
