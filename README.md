@@ -1,66 +1,25 @@
-<h1 align="center">Hi 👋, I'm Saif
-  Aljanahi</h1>
-  <h3 align="center">Software Developer from
-  Iraq</h3>
+# Hi 👋, I'm Saif Aljanahi
 
-  <p align="center">
-    Backend-focused developer building
-  reliable APIs and production-grade systems.
-  </p>
+Software Developer from Iraq.
+I build reliable backend systems and production-ready APIs.
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?
-  username=1saifj&label=Profile%20views&color
-  =0e75b6&style=flat" alt="profile views" />
-  </p>
+![Followers](https://img.shields.io/github/followers/1saifj?style=flat&logo=github)
+![Stars](https://img.shields.io/github/stars/1saifj?style=flat&logo=github)
+![Backend](https://img.shields.io/badge/Backend-TypeScript%20%7C%20Node.js-2f855a)
+![Location](https://img.shields.io/badge/Location-Iraq-1f6feb)
+![Profile views](https://komarev.com/ghpvc/?username=1saifj&label=Profile%20views&color=0e75b6&style=flat)
 
-  ## About Me
+## About Me
 
-  - I build backend systems with TypeScript
-  and Node.js
-  - I care about stable API contracts and
-  clean architecture
-  - I work across backend, infrastructure,
-  and release workflows
-  - Focused on shipping practical,
-  production-ready solutions
+- Backend-focused engineer (TypeScript, Node.js, Express, PostgreSQL)
+- Care about clean architecture, stable API contracts, and reliability
+- Build and ship practical solutions end-to-end
 
-  ## Tech I Use
+## Tech Stack
 
-  <p>
-    <img src="https://skillicons.dev/icons?
-  i=ts,nodejs,express,postgres,git,github,doc
-  ker,gcp" alt="tech stack" />
-  </p>
+`TypeScript` `Node.js` `Express` `PostgreSQL` `Drizzle ORM` `Docker` `GCP`
 
-  ## GitHub Insights
+## Connect
 
-  <p align="center">
-    <img src="https://github-profile-summary-
-  cards.vercel.app/api/cards/profile-details?
-  username=1saifj&theme=gruvbox" alt="profile
-  details" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-profile-summary-
-  cards.vercel.app/api/cards/repos-per-
-  language?username=1saifj&theme=gruvbox"
-  alt="repos per language" />
-    <img src="https://github-profile-summary-
-  cards.vercel.app/api/cards/most-commit-
-  language?username=1saifj&theme=gruvbox"
-  alt="most commit language" />
-  </p>
-
-  <p align="center">
-    <img src="https://streak-
-  stats.demolab.com?
-  user=1saifj&theme=gruvbox&hide_border=true"
-  alt="github streak" />
-  </p>
-
-  ## Connect
-
-  - GitHub: [github.com/1saifj](https://
-  github.com/1saifj)
+- GitHub: [github.com/1saifj](https://github.com/1saifj)
+- LinkedIn: [linkedin.com/in/1saifj](https://linkedin.com/in/1saifj)
