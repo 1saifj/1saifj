@@ -16,8 +16,8 @@ I build reliable backend systems and production-ready APIs.
 - Build and ship practical solutions end-to-end
 
 ## Tech Stack
-
-`TypeScript` `Node.js` `Express` `PostgreSQL` `Drizzle ORM` `Docker` `GCP`
+`Golang` `Flutter` `Dart` `Gorm` `TypeScript` `Node.js`
+`Express` `PostgreSQL` `Drizzle ORM` `Docker` `GCP`
 
 ## Connect
 
