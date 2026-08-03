@@ -11,7 +11,7 @@ I build reliable backend systems and production-ready APIs.
 
 ## About Me
 
-- Backend-focused engineer (TypeScript, Node.js, Express, PostgreSQL)
+- Backend-focused engineer (GO, TypeScript, Node.js, Express, PostgreSQL)
 - Care about clean architecture, stable API contracts, and reliability
 - Build and ship practical solutions end-to-end
 
